@@ -1,0 +1,65 @@
+# Local list
+
+# Google
+||googleoptimize.com^
+||googletagmanager.com^
+||footprints-pa.googleapis.com^
+||androidtvchannels-pa.googleapis.com^
+||playatoms-pa.googleapis.com^
+||voledevice-pa.googleapis.com^
+||people-pa.googleapis.com^
+||crashlyticsreports-pa.googleapis.com^
+||gstaticadssl.l.google.com^
+||userlocation.googleapis.com^
+
+# Facebook
+||connect.facebook.net^
+
+# Amazon
+||unagi-na.amazon.com^
+||msh.amazon.com^
+||xn--atvext-dg0c.amazon.com^
+||xn--dpgwna-cg0cc.amazon.com^
+||ktpx.amazon.com^
+||xn--arcususwest-pf3f.amazon.com^
+||ipv6.unagi-na.amazon.com^
+||fls-fe.amazon.com^
+||fls-na.amazon.com^
+
+# Xiaomi Mi TV
+||in.tv.global.mi.com^
+||mitv.tracking.india.miui.com^
+||sys.tv.india.xiaomi.com^
+
+# Router
+||taobao.com^
+
+# Oppo Vivo
+||stat-in.dc.oppomobile.com^
+||conff.dc.oppomobile.com^
+||coloros.com^
+||heytapmobi.com^
+||heytapmobile.com^
+||heytapdl.com^
+||allawntech.com^
+||allawnos.com^
+||oppomobile.com^
+
+# Other
+||consent.cookiebot.com^
+||app-measurement.com/sdk-exp^
+||telugucinema.com^
+||m.telugucinema.com^
+||digianalytics.airtel.in^
+||bixby-client.aibixby.com^
+||logs.juspay.in^
+||batchlogging4-noneu.truecaller.com^
+||in.wzrkt.com^
+||app-12.engage.jio.com^
+||74.go.qureka.com^
+||ads.rwadx.com^
+||analytics.intelliscapesolutions.com^
+||app.botsdekho.com^
+||doubleclick.net^
+||googleadservices.com^
+||amazon-adsystem.com^
