@@ -11,6 +11,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||gstaticadssl.l.google.com^
 ||userlocation.googleapis.com^
+||googleadservices.com^
 
 # Facebook
 ||connect.facebook.net^
