@@ -11,7 +11,7 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||gstaticadssl.l.google.com^
 ||userlocation.googleapis.com^
-||googleadservices.com^$important
+#||googleadservices.com^$important # Needs to be enabled for google search results to redirect to website
 
 # Facebook
 ||connect.facebook.net^
