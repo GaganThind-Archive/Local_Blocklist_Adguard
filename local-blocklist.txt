@@ -12,6 +12,7 @@
 ||gstaticadssl.l.google.com^
 ||userlocation.googleapis.com^
 #||googleadservices.com^$important # Needs to be enabled for google search results to redirect to website
+||instabug.com^
 
 # Facebook
 ||connect.facebook.net^
