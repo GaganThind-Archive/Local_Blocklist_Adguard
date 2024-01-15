@@ -65,3 +65,4 @@
 ||doubleclick.net^
 ||googleadservices.com^
 ||amazon-adsystem.com^
+||branch.io^
