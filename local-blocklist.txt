@@ -70,3 +70,4 @@
 ||analytics.intelliscapesolutions.com^
 ||app.botsdekho.com^
 ||branch.io^
+||blitzllama.com^
