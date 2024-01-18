@@ -13,6 +13,8 @@
 ||userlocation.googleapis.com^
 #||googleadservices.com^$important # Needs to be enabled for google search results to redirect to website
 ||instabug.com^
+||app-measurement.com^
+||doubleclick.net^
 
 # Facebook
 ||connect.facebook.net^
@@ -27,6 +29,7 @@
 ||ipv6.unagi-na.amazon.com^
 ||fls-fe.amazon.com^
 ||fls-na.amazon.com^
+||amazon-adsystem.com^
 
 # Xiaomi Mi TV
 ||in.tv.global.mi.com^
@@ -47,22 +50,23 @@
 ||allawnos.com^
 ||oppomobile.com^
 
+# Airtel
+||adtech.wynk.in^
+||imgads.wynk.in^
+||adconfig.wynk.in^
+||digianalytics.airtel.in^
+
 # Other
 ||consent.cookiebot.com^
-||app-measurement.com/sdk-exp^
 ||telugucinema.com^
 ||m.telugucinema.com^
-||digianalytics.airtel.in^
 ||bixby-client.aibixby.com^
 ||logs.juspay.in^
 ||batchlogging4-noneu.truecaller.com^
-||in.wzrkt.com^
-||app-12.engage.jio.com^
+||wzrkt.com^
+||engage.jio.com^
 ||74.go.qureka.com^
 ||ads.rwadx.com^
 ||analytics.intelliscapesolutions.com^
 ||app.botsdekho.com^
-||doubleclick.net^
-||googleadservices.com^
-||amazon-adsystem.com^
 ||branch.io^
