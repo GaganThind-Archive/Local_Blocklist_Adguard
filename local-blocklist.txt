@@ -15,6 +15,7 @@
 ||instabug.com^
 ||app-measurement.com^
 ||doubleclick.net^
+||crashlytics.com^
 
 # Facebook
 ||connect.facebook.net^
