@@ -70,5 +70,6 @@
 ||ads.rwadx.com^
 ||analytics.intelliscapesolutions.com^
 ||app.botsdekho.com^
+||netcoresmartech.com^
 ||branch.io^
 ||blitzllama.com^
