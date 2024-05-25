@@ -57,6 +57,9 @@
 ||adconfig.wynk.in^
 ||digianalytics.airtel.in^
 
+# Jio
+||adtracker.jiocinema.com^
+
 # Other
 ||consent.cookiebot.com^
 ||telugucinema.com^
